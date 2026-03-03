@@ -85,7 +85,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ## 💵 Lending & Stablecoins
 
-- [afiUSD – ETH-Backed Stablecoin](https://4270103853-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3Dwigu2h1sYDAbWrETnT%2Fuploads%2Fys0vOkPBsB0AOV2jXKiw%2FafiUSD_Audit_Review.pdf)
+- [afiUSD – ETH-Backed Stablecoin](https://content.gitbook.com/content/EPdvkoJHpBF3QkBeBWkM/blobs/BGeUsua2k8O7FmZNfj6v/afiUSD_Audit_Review.pdf)
 - [Beedle – Oracle-Free Perpetual Lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
 - [Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat)
 - UbiLoan – Peer-to-Pool Lending *(Private Audit)*
@@ -121,6 +121,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ## 🦀 Rust / Non-EVM Audits
 
+- Rektoff Cohort 3 Capstone *(Private Audit)*
 - ZKBase – L2 Scaling Solution *(Private Audit)*
 - DomiChain AI – AI-Secured SocialFi Blockchain
 - [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
