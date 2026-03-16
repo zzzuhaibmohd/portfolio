@@ -121,6 +121,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ## 🦀 Rust / Non-EVM Audits
 
+- [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
 - [Deadman Vault](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/Deadman_Vault_Audit_Report.pdf)
 - Rektoff Cohort 3 Capstone *(Private Audit)*
 - ZKBase – L2 Scaling Solution *(Private Audit)*
