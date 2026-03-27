@@ -28,7 +28,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 - 🏗️ Solana Program Development (Rust + Anchor)
 - 🪙 SPL Token & Token-2022 Programs
 - 🧠 PDA Design & Account Model Architecture
-- 🧪 Anchor Testing (TypeScript)
+- 🧪 Anchor Testing (Rust, TypeScript)
 - 🔄 Cross-Program Invocations (CPI) & Program Composability
 - 🧰 Solana Tooling (CLI, Solana-Web3.js, Anchor CLI)
 
@@ -50,7 +50,20 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ---
 
-# 🔍 Audit Experience
+## 🦀 Rust, Solana and Non-EVM Audits
+- MissionX - Loading
+- [StakeFlow - 1st Rank](https://github.com/Frankcastleauditor/Solana-Audit-Arena/blob/main/LEADERBOARD.md#week-1--stakeflow)
+- [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
+- [Deadman Vault](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/Deadman_Vault_Audit_Report.pdf)
+- Rektoff Cohort 3 Capstone *(Private Audit)*
+- ZKBase – L2 Scaling Solution *(Private Audit)*
+- DomiChain AI – AI-Secured SocialFi Blockchain
+- [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
+- OmniBridge (NEAR) – Audit 1 & 2 *(Private Audit)*
+
+---
+
+# 🔍 EVM Audit Experience
 
 ## 🎨 NFTs, Gaming & SocialFi
 
@@ -90,7 +103,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 - [Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat)
 - UbiLoan – Peer-to-Pool Lending *(Private Audit)*
 - Savvy DeFi – Arbitrum Lending Platform *(Private Audit)*
-
+  
 ---
 
 ## 🌉 Omnichain & Bridges
@@ -116,18 +129,6 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 - [Rethink Finance – Non-Custodial Asset Management](https://www.auditone.io/audit-report/rethink-finance)
 - [DEIN Network – DeFi Insurance](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
 - [Vyral Fun Escrow & V2](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Vyral_Fun_Escrow_Audit_Report.pdf)
-
----
-
-## 🦀 Rust / Non-EVM Audits
-
-- [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
-- [Deadman Vault](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/Deadman_Vault_Audit_Report.pdf)
-- Rektoff Cohort 3 Capstone *(Private Audit)*
-- ZKBase – L2 Scaling Solution *(Private Audit)*
-- DomiChain AI – AI-Secured SocialFi Blockchain
-- [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
-- OmniBridge (NEAR) – Audit 1 & 2 *(Private Audit)*
 
 ---
 
