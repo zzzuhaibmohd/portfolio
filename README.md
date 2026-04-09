@@ -51,8 +51,10 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 ---
 
 ## 🦀 Rust, Solana and Non-EVM Audits
-- [MissionX - 3rd Rank](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22)
-- [StakeFlow - 1st Rank](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%201%22%20%22%E2%9C%85%20Valid%22)
+- Loading...............
+- [Zenon (Bonding Curve Launchpad)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20state%3Aopen%20author%3Azzzuhaibmohd) 
+- [MissionX (on-chain bounty marketplace) - 🥉(3rd place)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22)
+- [StakeFlow (Staking protocol) - 🥇(1st place)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%201%22%20%22%E2%9C%85%20Valid%22)
 - [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
 - [Deadman Vault](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/Deadman_Vault_Audit_Report.pdf)
 - Rektoff Cohort 3 Capstone *(Private Audit)*
