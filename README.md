@@ -52,7 +52,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ## 🦀 Rust, Solana and Non-EVM Audits
 - Loading...............
-- [Zenon (Bonding Curve Launchpad)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20state%3Aopen%20author%3Azzzuhaibmohd) 
+- [Zenon (Bonding Curve Launchpad)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%203%22%20%22%E2%9C%85%20Valid%22) 
 - [MissionX (on-chain bounty marketplace) - 🥉(3rd place)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22)
 - [StakeFlow (Staking protocol) - 🥇(1st place)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%201%22%20%22%E2%9C%85%20Valid%22)
 - [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
