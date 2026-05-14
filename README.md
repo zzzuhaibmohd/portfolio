@@ -51,7 +51,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 ---
 
 ## 🦀 Rust, Solana and Non-EVM Audits
-- Loading...............
+- [Riverboat v0.9 (Prediction Market) x Slot Zero Security](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v0.9.pdf)
 - [Trepa (Prediction Market) x Phage Security](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf)
 - [Zenon (Bonding Curve Launchpad) - 🥈(2nd place)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%203%22%20%22%E2%9C%85%20Valid%22) 
 - [MissionX (on-chain bounty marketplace) - 🥉(3rd place)](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22)
