@@ -59,10 +59,8 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 - [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
 - [Deadman Vault](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/Deadman_Vault_Audit_Report.pdf)
 - Rektoff Cohort 3 Capstone *(Private Audit)*
-- ZKBase – L2 Scaling Solution *(Private Audit)*
-- DomiChain AI – AI-Secured SocialFi Blockchain
 - [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
-- OmniBridge (NEAR) – Audit 1 & 2 *(Private Audit)*
+- OmniBridge (NEAR) x AuditOne – Audit 1 & 2 *(Private Audit)*
 
 ---
 
@@ -72,16 +70,16 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 - [NextGen – Generative NFT Art](https://code4rena.com/reports/2023-10-nextgen)
 - ParaSpace yAPE – NFT Lending Protocol
-- [IOTA Heroes – Web3 Metaverse Gaming](https://www.auditone.io/audit-report/iotaheroes)
+- [IOTA Heroes – Web3 Metaverse Gaming x AuditOne](https://www.auditone.io/audit-report/iotaheroes)
 - Gameland – Gaming & Social Network
 - [PsyDelve & Staking V1](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Psydelve_NFT_Audit_Report.pdf)
 - xPET – SocialFi Platform
 - [Dropzone_Komet – Escrow Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
-- [The New Elite – Web3 Gaming](https://www.auditone.io/audit-report/the-new-elite)
+- [The New Elite – Web3 Gaming x AuditOne](https://www.auditone.io/audit-report/the-new-elite)
 - zkLink MergeToken – ZkSync Fork
-- [CrosToken – Cronos Network](https://www.auditone.io/audit-report/cros-audit)
+- [CrosToken – Cronos Network x AuditOne](https://www.auditone.io/audit-report/cros-audit)
 - [LeaderboardV2](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/LeaderboardV2_Audit_Report.pdf)
-- Dark Mythos – NFT Project *(Private Audit)*
+- [Dark Mythos – NFT Project x AuditOne](https://www.auditone.io/audit-report/dark-mythos-audit)
 - Cybar.finance *(Private Audit)*
 
 ---
@@ -91,11 +89,9 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 - KiloEx – Perpetual DEX
 - Gambit & Gambit V2 – zkSync Perpetual
 - Lynex – Linea DEX
-- Glyph AMM
-- Loxodrome – ve(3,3) DEX
-- [ShimmerSea – DEX & NFT Marketplace](https://www.auditone.io/audit-report/shimmersea-2)
+- [ShimmerSea – DEX & NFT Marketplace x AuditOne](https://www.auditone.io/audit-report/shimmersea-2)
 - [StakeHousePool – PulseChain](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/StakeHousePool-audit-report.pdf)
-- [LeverageX – Perpetual DEX](https://www.auditone.io/audit-report/leveragex-audit)
+- [LeverageX – Perpetual DEX x AuditOne](https://www.auditone.io/audit-report/leveragex-audit)
 
 ---
 
@@ -111,14 +107,9 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ## 🌉 Omnichain & Bridges
 
-- dappOS – Web3 Operating System
 - [Maia DAO (Ulysses)](https://code4rena.com/reports/2023-09-maia)
 - [Humans.ai – Synapse Bridge](https://github.com/humansdotai/audit-reports/blob/main/AuditOne_SynapseBridge_audit_report.pdf)
-- Magpie Burn Module – Multi-chain Yield Protocol
-- Mitosis – Modular Liquidity Protocol
-- zkLink Bridge & Arbitrator Upgrade
-- NeoX Bridge – EVM-Compatible Sidechain
-- Biconomy Composability *(Private Audit)*
+- [Biconomy Composability x Pashov Audit Group](https://github.com/pashov/audits/blob/master/team/pdf/BiconomyComposability-security-review_2025-03-22.pdf)
 
 ---
 
@@ -129,7 +120,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 - RewardStation – Mantle Ecosystem
 - [Bistro Staking](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/audit-bistro.pdf)
 - IoTex-IIP14 – IoTeX Network
-- [Rethink Finance – Non-Custodial Asset Management](https://www.auditone.io/audit-report/rethink-finance)
+- [Rethink Finance – Non-Custodial Asset Management x AuditOne](https://www.auditone.io/audit-report/rethink-finance)
 - [DEIN Network – DeFi Insurance](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
 - [Vyral Fun Escrow & V2](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Vyral_Fun_Escrow_Audit_Report.pdf)
 
