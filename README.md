@@ -87,7 +87,7 @@ I specialize in designing **secure-by-architecture smart contracts** and conduct
 
 ## ⚖️ DeFi & Perpetual DEXes
 
-- KiloEx – Perpetual DEX
+- [KiloEx – Perpetual DEX](https://drive.google.com/file/d/1xsBXkS6dfGRrNLopK6xy29dKex-VV0fw/view)
 - Gambit & Gambit V2 – zkSync Perpetual
 - Lynex – Linea DEX
 - [ShimmerSea – DEX & NFT Marketplace x AuditOne](https://www.auditone.io/audit-report/shimmersea-2)
