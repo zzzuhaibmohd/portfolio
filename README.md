@@ -18,7 +18,7 @@
 
 ## About
 
-I’m a **Smart Contract Security Researcher and Engineer** with **3+ years in the blockchain ecosystem** and experience across **50+ security reviews and production-grade codebases**.
+I am a **Smart Contract Security Researcher and Engineer** with **3+ years in the blockchain ecosystem** and experience across **40+ security reviews and production-grade codebases**.
 
 My work focuses on identifying vulnerabilities that emerge from broken invariants, complex state transitions, protocol integrations, accounting assumptions, access-control mistakes, and unexpected interactions between components.
 
@@ -34,47 +34,29 @@ I co-founded **[Slot Zero Security](https://slotzerosecurity.com/)**, a smart co
 
 Our reviews focus on understanding the complete protocol architecture before trying to break its assumptions.
 
-**Core areas of review include:**
-
-* Protocol invariants and state-machine safety
-* Financial and accounting correctness
-* Authorization and privilege boundaries
-* PDA and account lifecycle safety
-* CPI and external-call validation
-* Token and Token-2022 integrations
-* AMM, vault, lending and staking accounting
-* Cross-contract and cross-program interactions
-* Edge cases and multi-step attack paths
-* Exploit / PoC validation
-* Remediation review
-
 > **Building something that needs a security review?**
 > Visit **[slotzerosecurity.com](https://slotzerosecurity.com/)**
 
 ---
-
 # Security Audits
 
 Selected public security reviews, competitions, and protocol assessments.
 
 ### Featured Reviews
 
-| Protocol                   | Type                         | Work                                                                                                                                                                                               |
-| -------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Riverboat v1.0**         | Prediction Market            | [Slot Zero Security Review](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v1.0.pdf)                                                                 |
-| **Riverboat v0.9**         | Prediction Market            | [Slot Zero Security Review](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v0.9.pdf)                                                                 |
-| **Trepa**                  | Prediction Market            | [Phage Security Review](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf)                                                                                                      |
-| **x402-Meridian**              | x402 Protocol             | [🥇 1st Place — Solana Audit Arena](https://x.com/0xcastle_chain/status/2099555426022932682) |
-| **StakeFlow**              | Staking Protocol             | [🥇 1st Place — Solana Audit Arena](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%201%22%20%22%E2%9C%85%20Valid%22) |
-| **MissionX**               | On-chain Marketplace         | [🥉 3rd Place — Solana Audit Arena](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22)             |
-| **Zenon**                  | Bonding Curve Launchpad      | [🥈 2nd Place — Solana Audit Arena](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%203%22%20%22%E2%9C%85%20Valid%22) |
-| **Biconomy Composability** | Smart Account Infrastructure | [Pashov Audit Group](https://github.com/pashov/audits/blob/master/team/pdf/BiconomyComposability-security-review_2025-03-22.pdf)                                                                   |
-| **KiloEx**                 | Perpetual DEX                | [Security Review](https://drive.google.com/file/d/1xsBXkS6dfGRrNLopK6xy29dKex-VV0fw/view)                                                                                                          |
+| Protocol                   | Type                         | Work |
+| -------------------------- | ---------------------------- | ---- |
+| **Riverboat v1.0**         | Prediction Market            | [Slot Zero Security Review](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v1.0.pdf) |
+| **Riverboat v0.9**         | Prediction Market            | [Slot Zero Security Review](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v0.9.pdf) |
+| **Trepa**                  | Prediction Market            | [Phage Security Review](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf) |
+| **Biconomy Composability** | Smart Account Infrastructure | [Pashov Audit Group](https://github.com/pashov/audits/blob/master/team/pdf/BiconomyComposability-security-review_2025-03-22.pdf) |
 
 ---
 
 ## DeFi, DEXes & Financial Protocols
 
+* [Zenon — Bonding Curve Launchpad](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%203%22%20%22%E2%9C%85%20Valid%22) — 🥈 2nd Place, Solana Audit Arena
+* [KiloEx — Perpetual DEX](https://drive.google.com/file/d/1xsBXkS6dfGRrNLopK6xy29dKex-VV0fw/view)
 * [Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat)
 * [Beedle – Oracle-Free Lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
 * [afiUSD – ETH-Backed Stablecoin](https://content.gitbook.com/content/EPdvkoJHpBF3QkBeBWkM/blobs/BGeUsua2k8O7FmZNfj6v/afiUSD_Audit_Review.pdf)
@@ -91,6 +73,8 @@ Selected public security reviews, competitions, and protocol assessments.
 
 ## Staking, Infrastructure & Protocol Systems
 
+* [x402-Meridian — x402 Protocol](https://x.com/0xcastle_chain/status/2099555426022932682) — 🥇 1st Place, Solana Audit Arena
+* [StakeFlow — Staking Protocol](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue%20is%3Aclosed%20author%3Azzzuhaibmohd%20%22Week%201%22%20%22%E2%9C%85%20Valid%22) — 🥇 1st Place, Solana Audit Arena
 * [Stake Together – Liquid Staking](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md)
 * [MCR369 Buffer](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
 * [Bistro Staking](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/audit-bistro.pdf)
@@ -107,6 +91,14 @@ Selected public security reviews, competitions, and protocol assessments.
 
 ---
 
+## Prediction Markets
+
+* [Riverboat v1.0](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v1.0.pdf) — Slot Zero Security Review
+* [Riverboat v0.9](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v0.9.pdf) — Slot Zero Security Review
+* [Trepa](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf) — Phage Security Review
+
+---
+
 ## Cross-Chain & Interoperability
 
 * [Maia DAO / Ulysses](https://code4rena.com/reports/2023-09-maia)
@@ -118,6 +110,7 @@ Selected public security reviews, competitions, and protocol assessments.
 
 ## Gaming, NFTs & Consumer Protocols
 
+* [MissionX — On-chain Marketplace](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22) — 🥉 3rd Place, Solana Audit Arena
 * [NextGen – Generative NFT Art](https://code4rena.com/reports/2023-10-nextgen)
 * ParaSpace yAPE
 * [IOTA Heroes](https://www.auditone.io/audit-report/iotaheroes)
@@ -137,8 +130,6 @@ Selected public security reviews, competitions, and protocol assessments.
 # Engineering
 
 Security research is stronger when you understand how protocols are actually built.
-
-Selected engineering work:
 
 | Project                                                                                               | Description                             |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------- |
