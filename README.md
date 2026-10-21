@@ -63,8 +63,8 @@ Selected public security reviews, competitions, and protocol assessments.
 * Gambit
 * Gambit V2
 * Lynex
-* [ShimmerSea – DEX & NFT Marketplace](https://www.auditone.io/audit-report/shimmersea-2)
-* [LeverageX – Perpetual DEX](https://www.auditone.io/audit-report/leveragex-audit)
+* [ShimmerSea – DEX & NFT Marketplace](https://3298136148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQKXYjSjojT8bZB2EGMXu%2Fuploads%2FeM1tjonPGARWtOzV2tsr%2FShimmerSea_AuditReport_AuditOne_2.pdf?alt=media&token=ec432f82-8acf-4ddd-89d2-501ca40ab570)
+* [LeverageX – Perpetual DEX](https://docsend.com/view/dy4askhmfpbsasas)
 * [StakeHousePool](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/StakeHousePool-audit-report.pdf)
 * UbiLoan *(Private Review)*
 * Savvy DeFi *(Private Review)*
@@ -80,7 +80,7 @@ Selected public security reviews, competitions, and protocol assessments.
 * [Bistro Staking](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/audit-bistro.pdf)
 * RewardStation
 * IoTeX IIP-14
-* [Rethink Finance – Asset Management](https://www.auditone.io/audit-report/rethink-finance)
+* [Rethink Finance – Asset Management](https://docsend.com/view/3kiyh4pss29puh58)
 * [DEIN Network – DeFi Insurance](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
 * [Vyral Fun Escrow & V2](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Vyral_Fun_Escrow_Audit_Report.pdf)
 * [PulseRaise](https://github.com/zzzuhaibmohd/portfolio/blob/main/audit%20reports/PulseRaise_Audit_Report.pdf)
@@ -113,16 +113,16 @@ Selected public security reviews, competitions, and protocol assessments.
 * [MissionX — On-chain Marketplace](https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues?q=is%3Aissue+is%3Aclosed+author%3Azzzuhaibmohd+%22Week+2%22+%22%E2%9C%85+Valid%22) — 🥉 3rd Place, Solana Audit Arena
 * [NextGen – Generative NFT Art](https://code4rena.com/reports/2023-10-nextgen)
 * ParaSpace yAPE
-* [IOTA Heroes](https://www.auditone.io/audit-report/iotaheroes)
+* [IOTA Heroes](https://docsend.com/view/5gebind2h6ugfp8m)
 * Gameland
 * [PsyDelve & Staking V1](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Psydelve_NFT_Audit_Report.pdf)
 * xPET
 * [Dropzone Komet](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
-* [The New Elite](https://www.auditone.io/audit-report/the-new-elite)
+* [The New Elite](https://docsend.com/view/m85awkv56j7gmtjr)
 * zkLink MergeToken
-* [CrosToken](https://www.auditone.io/audit-report/cros-audit)
+* [CrosToken](https://docsend.com/view/43phhifeajbrz4wb)
 * [LeaderboardV2](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/LeaderboardV2_Audit_Report.pdf)
-* [Dark Mythos](https://www.auditone.io/audit-report/dark-mythos-audit)
+* [Dark Mythos](https://docsend.com/view/xs8rxzbbajinfg97)
 * Cybar.finance *(Private Review)*
 
 ---
