@@ -104,7 +104,8 @@ Selected public security reviews, competitions, and protocol assessments.
 * [Maia DAO / Ulysses](https://code4rena.com/reports/2023-09-maia)
 * [Humans.ai – Synapse Bridge](https://github.com/humansdotai/audit-reports/blob/main/AuditOne_SynapseBridge_audit_report.pdf)
 * [Biconomy Composability](https://github.com/pashov/audits/blob/master/team/pdf/BiconomyComposability-security-review_2025-03-22.pdf)
-* OmniBridge *(Private Reviews)*
+* NEAR–Sui bridge — AuditOne · Rust · Sep 2026 *(Private Report)*
+* OmniBridge — AuditOne · Rust · Aug 2026 *(Private Report)*
 
 ---
 
@@ -150,6 +151,9 @@ Security research is stronger when you understand how protocols are actually bui
 # Writing
 
 I write about smart contract security, auditing methodology, vulnerabilities, and protocol design.
+
+* [What Happens When a Bridge Accepts Bitcoin Too Soon?](https://x.com/zuhaib44/status/2115439407134326901) — Oct 2026 · 3 min read
+* [How to audit a NEAR smart contract as a Solana auditor](https://x.com/zuhaib44/status/2106131657967448143) — Oct 2026 · 11 min read
 
 ### → [Read my security research on Medium](https://medium.com/@zuhaibmd)
 
